@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: shoping-cart
+
+  cloud:
+    config:
+      uri:
+        http://localhost/8888
